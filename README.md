@@ -1,4 +1,4 @@
-- 👋 Hi, I;m Miranda
+- 👋 Hi, I'm Miranda
 - 🌱 I’m currently learning unity and C#
 - 📫 Reach me by creating issues/pull requests of my recent repos
 - 😄 Pronouns: She/Her
