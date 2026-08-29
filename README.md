@@ -1,8 +1,9 @@
 - 👋 Hi, I'm Miranda
-- 🌱 I’m currently learning unity and C#
+- 🌱 I’m in the application process for a job teaching coding to young kids
 - 📫 Reach me by creating issues/pull requests of my recent repos
 - 😄 Pronouns: She/Her
-- 👀 Look out for my new app BOAF(Birds of a feather), currently in development
+- 👀 Look out for new ideas, fun projects, and more
+- 
 
 <!---
 mcn16/mcn16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
